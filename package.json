@@ -12,5 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "vite": "^5.4.10"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.3.3"
   }
 }
